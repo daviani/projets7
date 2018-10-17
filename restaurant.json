@@ -1,0 +1,220 @@
+[{
+        "restaurantName": "Le Yack",
+        "address": "6 Rue Saint-Vincent de Paul, 63000 Clermont-Ferrand",
+        "lat": 45.77545,
+        "lng": 3.08512,
+        "ratings": [{
+                "stars": 4,
+                "comment": "Très bonne surprise <br>Première fois dans un restaurant tibétain <br>À tester d'excellent plat et un très bon rapport qualité prix"
+            },
+            {
+                "stars": 5,
+                "comment": "Restaurant étonnant, vraiment peu cher et plutôt copieux. Les plats sont très bone, le cadre très apaisant ! Je recommande"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Le Mayerling",
+        "address": "4 Rue Saint-Dominique, 63000 Clermont-Ferrand",
+        "lat": 45.778637,
+        "lng": 3.081123,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Super endroit. Accueil agréable et tarif très attractifs pour le quartier. Ambiance assurée, je recommande vivement."
+            },
+            {
+                "stars": 4,
+                "comment": "Des produits frais, des plats faits maison, pour info ils ne possèdent pas de micro-onde.... Et beaucoup de gentillesse. Je valide pour tous ces éléments. 👍"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Tarterie de Venise",
+        "address": "49 Rue Eugène Gilbert, 63000 Clermont-Ferrand",
+        "lat": 45.773517,
+        "lng": 3.075817,
+        "ratings": [{
+                "stars": 4,
+                "comment": "Bonnes pizzas et la garniture est correcte"
+            },
+            {
+                "stars": 5,
+                "comment": "Très bonne Pizza, prix raisonnable rapide et bien garnie !!! Je recommande..."
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Bougnat Burger",
+        "address": "10 Boulevard Léon Malfreyt, 63000 Clermont-Ferrand",
+        "lat": 45.773890,
+        "lng": 3.085630,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Super accueil, j'étais pas au départ emballé part l'environnement ,dommage. Mais malgré cela super repas avec de bons produits. Beaucoup de gentillesse et de bienveillance dans le service. Bon moment merci ."
+            },
+            {
+                "stars": 4,
+                "comment": "Bon burger avec des produits de la région, et le tout pour un prix raisonnable. Les assiettes sont copieuses. Elles sont agrémentées de frites et d'une petite salade. Il existe un burger végétarien composé d'un steak de pommes de terre. Avec les frites, ça fait un peu trop de pommes de terre. Ce dernier est à revoir."
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Guy&Sons Clermont",
+        "address": "44 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "lat": 45.780900,
+        "lng": 3.078850,
+        "ratings": [{
+                "stars": 2,
+                "comment": "Ce n'est plus ce que c'était!! Les nouvelles recettes sont bien mais mal préparées, quasiment pas de sauces, pain brûlé, frites bonnes 1 fois sur 2 à emporté. Vraiment dommage!"
+            },
+            {
+                "stars": 5,
+                "comment": "Très copieux et délicieux ! Super agréable comme endroit, tant l'ambiance que le personnel. Je recommande vraiment"
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Pile Poêle",
+        "address": "9 Rue Saint-Dominique, 63000 Clermont-Ferrand",
+        "lat": 45.778520,
+        "lng": 3.080870,
+        "ratings": [{
+                "stars": 3,
+                "comment": "Le service est très agréable et les serveuses au petit soin pour les clients.  La nourriture est bonne mais il manque un petit quelque chose à chaque fois pour que ça vaille le prix payé:  assiette froide pour un onglet non denervé,  l'oeuf qui aurait mérité d'être un peu moins cuit avec la sauce aux morilles,..  Mais le résultat global est quand même bon."
+            },
+            {
+                "stars": 4,
+                "comment": "Dommage que nous ayons attendu très très longtemps parce que la truffade et la charcuterie étaient excellentes!"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Los Dos Hermanos",
+        "address": "21 Rue Georges Clemenceau, 63000 Clermont-Ferrand",
+        "lat": 45.775000,
+        "lng": 3.084860,
+        "ratings": [{
+                "stars": 4,
+                "comment": "Excellent et copieux. Le choix est grand et le sourire et la bonne humeur de la patronne n'est pas négligeable "
+            },
+            {
+                "stars": 5,
+                "comment": "Génial sur tout"
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Terres Latines",
+        "address": "12 Boulevard Desaix, 63000 Clermont-Ferrand",
+        "lat": 45.776730,
+        "lng": 3.083730,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Arrive en tête de mes préférence ! Concept original, je me suis régalé. Les saveurs et couleurs sont au rendez vous."
+            },
+            {
+                "stars": 5,
+                "comment": "Excellent restaurant italo-hispanique. Un régale pour les papilles. Des pâtes fraîches, des tapas originaux. Les vins et cocktails également"
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Le Puy de la Lune",
+        "address": "3 Rue de la Michodière, 63000 Clermont-Ferrand",
+        "lat": 45.780120,
+        "lng": 3.081460,
+        "ratings": [{
+                "stars": 5,
+                "comment": "J'ai vraiment aimé"
+            },
+            {
+                "stars": 5,
+                "comment": "Toujours aussi bon vu l heure tardive Service agréable"
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "L'AOC",
+        "address": "4 Rue des Petits Gras, 63000 Clermont-Ferrand",
+        "lat": 45.778289,
+        "lng": 3.083587,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Excellente adresse au cœur du vieux Clermont. Terrasse sympathique, accueil également. Très bonne cuisine française. Bon vin. Un sans faute!"
+            },
+            {
+                "stars": 2,
+                "comment": "Déception. La salle résonne et c'est très bruyant. Décor sobre. La cuisine est bonne, mais rien de très originale et c'est cher. Pas de menus. Je ne retrournerai pas."
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "LOL Restaurant",
+        "address": "21 Rue des Vieillards, 63000 Clermont-Ferrand",
+        "lat": 45.779354,
+        "lng": 3.079639,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Tres bon accueil super tres agréables pas tres cher"
+            },
+            {
+                "stars": 5,
+                "comment": "Personnel très sympathique,nous nous sommes régalés avec la truffade très copieuse"
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Amphitryon Capucine",
+        "address": "50 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "lat": 45.780932,
+        "lng": 3.079087,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Très bon accueil, chaleureux. La cuisine est raffinée et réserve des surprises"
+            },
+            {
+                "stars": 2,
+                "comment": "Une cuisine conforme à la carte, un peu grasse.Néanmoins le chef réussi à s adapter aux demandes des hôtes."
+            }
+        ]
+    },
+
+    {
+        "restaurantName": "Restaurant Le Mozart",
+        "address": "89 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "lat": 45.782301,
+        "lng": 3.075259,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Très bon accueil cocktail maison super"
+            },
+            {
+                "stars": 5,
+                "comment": "Maryse est une femme extraordinaire"
+            }
+        ]
+    },
+    {
+        "restaurantName": "L'Ardoise",
+        "address": "35 Rue de la Garde, 63000 Clermont-Ferrand",
+        "lat": 45.724554,
+        "lng": 3.083642,
+        "ratings": [{
+                "stars": 5,
+                "comment": "Bon et super sympathique"
+            },
+            {
+                "stars": 2,
+                "comment": "Très bonne soirée pour les 40 ans d'un ami. Très bon accueil."
+            }
+        ]
+    }
+]
