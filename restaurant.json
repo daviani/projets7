@@ -1,6 +1,8 @@
 [{
         "restaurantName": "Le Yack",
         "address": "6 Rue Saint-Vincent de Paul, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Lieux chaleureux . Décontracté . Convient aux végétariens",
         "lat": 45.77545,
         "lng": 3.08512,
         "ratings": [{
@@ -16,6 +18,8 @@
     {
         "restaurantName": "Le Mayerling",
         "address": "4 Rue Saint-Dominique, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Lieux chaleureux . Décontracté . Groupes",
         "lat": 45.778637,
         "lng": 3.081123,
         "ratings": [{
@@ -31,6 +35,8 @@
     {
         "restaurantName": "Tarterie de Venise",
         "address": "49 Rue Eugène Gilbert, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Ce petit comptoir offre des pizzas à la pâte faite maison, traditionnelles ou créatives, en vente à emporter",
         "lat": 45.773517,
         "lng": 3.075817,
         "ratings": [{
@@ -47,6 +53,8 @@
     {
         "restaurantName": "Bougnat Burger",
         "address": "10 Boulevard Léon Malfreyt, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Ce restaurant sert dans une grande salle claire rehaussée de tons vert clair une carte de burgers originaux.",
         "lat": 45.773890,
         "lng": 3.085630,
         "ratings": [{
@@ -63,6 +71,8 @@
     {
         "restaurantName": "Guy&Sons Clermont",
         "address": "44 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Travaillés avec des produits frais, les burgers de ce restaurant compact sont réalisés de façon artisanale.",
         "lat": 45.780900,
         "lng": 3.078850,
         "ratings": [{
@@ -79,6 +89,8 @@
     {
         "restaurantName": "Pile Poêle",
         "address": "9 Rue Saint-Dominique, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Murs lambrissés, banquettes rouges matelassées et cuisine traditionnelle (dont spécialités auvergnates).",
         "lat": 45.778520,
         "lng": 3.080870,
         "ratings": [{
@@ -94,6 +106,8 @@
     {
         "restaurantName": "Los Dos Hermanos",
         "address": "21 Rue Georges Clemenceau, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Service de restauration ouvert tard en soirée . Décontracté . Lieu chaleureux ",
         "lat": 45.775000,
         "lng": 3.084860,
         "ratings": [{
@@ -110,6 +124,8 @@
     {
         "restaurantName": "Terres Latines",
         "address": "12 Boulevard Desaix, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Lieu chaleureux . Décontracté . Groupes",
         "lat": 45.776730,
         "lng": 3.083730,
         "ratings": [{
@@ -126,6 +142,8 @@
     {
         "restaurantName": "Le Puy de la Lune",
         "address": "3 Rue de la Michodière, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Ce restaurant-bar et club de jazz offre un cadre convivial, avec une carte de la région et d'ailleurs.",
         "lat": 45.780120,
         "lng": 3.081460,
         "ratings": [{
@@ -142,6 +160,8 @@
     {
         "restaurantName": "L'AOC",
         "address": "4 Rue des Petits Gras, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Lieu chaleureux . Décontracté . Groupes",
         "lat": 45.778289,
         "lng": 3.083587,
         "ratings": [{
@@ -158,6 +178,8 @@
     {
         "restaurantName": "LOL Restaurant",
         "address": "21 Rue des Vieillards, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Terrasse . Décontracté . Groupes",
         "lat": 45.779354,
         "lng": 3.079639,
         "ratings": [{
@@ -174,6 +196,8 @@
     {
         "restaurantName": "Amphitryon Capucine",
         "address": "50 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Ce restaurant propose une cuisine de saison haut de gamme dans un cadre contemporain, chaleureux et élégant.",
         "lat": 45.780932,
         "lng": 3.079087,
         "ratings": [{
@@ -190,6 +214,8 @@
     {
         "restaurantName": "Restaurant Le Mozart",
         "address": "89 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "describe": "Terrasse . Lieu chaleureux . Décontracté",
+        "img": "https://via.placeholder.com/400x260",
         "lat": 45.782301,
         "lng": 3.075259,
         "ratings": [{
@@ -205,6 +231,8 @@
     {
         "restaurantName": "L'Ardoise",
         "address": "35 Rue de la Garde, 63000 Clermont-Ferrand",
+        "img": "https://via.placeholder.com/400x260",
+        "describe": "Dans un cadre classique et chaleureux, de copieux plats régionaux et traditionnels, avec terrasse en été.",
         "lat": 45.724554,
         "lng": 3.083642,
         "ratings": [{
